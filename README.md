@@ -21,6 +21,9 @@ Dependencies
 The project relies on the following dependencies:
 
 scrapy: A Python framework for web scraping and website crawling.
+
 pandas: A data manipulation library used for storing the extracted links in a pandas DataFrame.
+
 xlrd: A library for reading data and formatting information from Excel files.
+
 openpyxl: A library for reading and writing Excel files.
