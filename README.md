@@ -1,4 +1,4 @@
-# Website-crawling-with-scrapy
+# Website-crawling-with-scrapy (Internship)
 
 This project demonstrates web scraping and website crawling using Scrapy, a powerful Python framework for extracting data from websites. The goal of this project is to crawl a given website and extract internal links, storing them in an Excel file.
 
